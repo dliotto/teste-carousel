@@ -1,14 +1,21 @@
 {
   "name": "teste-carousel",
+  "homepage": "http://portal.wanke.com.br/teste-carousel/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "internal-ip": "^6.0.0",
+    "internal-ip-cli": "^1.0.0",
+    "local-ip-url": "^1.0.3",
+    "public-ip": "^4.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-iframe": "^1.8.0",
+    "react-scripts": "3.4.1",
+    "react-slick": "^0.27.0"
   },
   "scripts": {
     "start": "react-scripts start",
